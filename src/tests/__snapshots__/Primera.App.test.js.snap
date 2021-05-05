@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` Pruebas en <PrimeraApp/>  debe de mostrar <PrimeraApp /> correctamente 1`] = `
+<Fragment>
+  <h1>
+    Hola, Soy Juan
+  </h1>
+  <p>
+    calculadora de suma
+  </p>
+</Fragment>
+`;
+
+exports[` Pruebas en <PrimeraApp/>  debe de mostrar el subtítulo  1`] = `undefined`;
+
+exports[` Pruebas en <PrimeraApp/>  debe de mostrar el subtítulo enviado por props 1`] = `undefined`;
